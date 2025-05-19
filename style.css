@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap'); /* Importa a fonte pelo google fonts*/
+
+
+
+*{
+    
+    margin: 0
+}
+
+.fundo{
+    
+    background-image: url(../img/image.png); /*Coloca a imagem como fundo da página*/
+
+    background-size: cover;/*Tamanho da imagem e relação a ela mesma*/
+
+    height: 100vh; /* Altura da imagem*/
+
+    align-content: center; /* Faz com que a linha esteja alinhada com a imagem*/ 
+}
+.titulo{
+
+    font-size: 70px;/*Tamanho da fonte da letra*/
+   text-align: center; /* Texto alinhado com o centro*/
+   color:palegoldenrod; /* Cor do texto*/
+   font-family: Philosopher; /* O tipo de fonte da escrita*/
+   font-weight: 100; /* Tamanho da fonte*/
+   font-style: italic; /* Tipo do texto italico*/
+
+
+
+
+}
