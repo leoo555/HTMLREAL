@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+*{
+    
+    margin: 0
+}
+
+.fundo{
+    
+    background-image: url(../img/image.png);
+
+    background-size: cover;
+
+    height: 100vh;
+
+    align-content: center;
+}
+.titulo{
+
+    font-size: 70px;
+   text-align: center;
+   color:palegoldenrod;
+   font-family: Philosopher;
+   font-weight: 100;
+   font-style: italic;
+
+
+
+
+}
